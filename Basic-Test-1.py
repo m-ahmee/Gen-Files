@@ -2,8 +2,8 @@ import requests
 import json
 
 # Set the CyberArk REST API endpoints
-login_url = "https://hbf.privilegecloud.cyberark.com/PasswordVault/API/auth/Cyberark/Logon/"
-accounts_url = "https://hbf.privilegecloud.cyberark.com/PasswordVault/API/Accounts"
+login_url = "https://.privilegecloud.cyberark.com/PasswordVault/API/auth/Cyberark/Logon/"
+accounts_url = "https://.privilegecloud.cyberark.com/PasswordVault/API/Accounts"
 
 # Replace with your actual credentials
 username = "xxx"
